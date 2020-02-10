@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+}
+#leftmainsection{
+    background: rgb(231, 40, 40);
+    width:100%;
+    padding: 20px;
+    display: inline-block;
+    
+}
+.logo{
+    color: #fff;
+
+}
+.leftmenu ul li a{
+    float: left;
+    padding:4px;
+    text-align: left;
+    color: #fff;
+}
+.leftmenu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 30px;
+}
+.leftmenu ul li a{
+    display: inline-block;
+   
+}
